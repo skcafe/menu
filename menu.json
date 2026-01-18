@@ -1,0 +1,298 @@
+{
+  "categories": [
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "items": [
+        {
+          "name": "Regular Cold Coffee",
+          "price": 50,
+          "description": "Chilled classic coffee with a smooth, refreshing taste",
+          "image": "./images/cold-coffee.jpg"
+        },
+        {
+          "name": "Ice-Cream Cold Coffee",
+          "price": 70,
+          "description": "Cold coffee blended with rich, creamy ice cream",
+          "image": "./images/Ice-Cream Cold Coffee.jpg"
+        },
+        {
+          "name": "Kitkat Cold Coffee",
+          "price": 60,
+          "description": "Chocolatey cold coffee with crushed KitKat flavor",
+          "image": "./images/Kitkat Cold Coffee.jpg"
+        },
+        {
+          "name": "Oreo Cold Coffee",
+          "price": 60,
+          "description": "Creamy cold coffee infused with Oreo crunch",
+          "image": "./images/Oreo Cold Coffee.jpg"
+        },
+        {
+          "name": "Mint Cold Coffee",
+          "price": 40,
+          "description": "Refreshing cold coffee with a cool mint twist",
+          "image": "./images/Mint Cold Coffee.jpg"
+        },
+        {
+          "name": "Cold Coffee with crush",
+          "price": 60,
+          "description": "Cold coffee mixed with flavored syrup crush",
+          "image": "./images/Cold Coffee with crush.jpg"
+        },
+        {
+          "name": "Thick Cold Coffee",
+          "price": 40,
+          "description": "Extra thick and creamy cold coffee delight",
+          "image": "./images/Thick Cold Coffee.jpg"
+        },
+        {
+          "name": "Creamy Chocolate Coffee",
+          "price": 60,
+          "description": "Smooth coffee blended with rich chocolate",
+          "image": "./images/Creamy Chocolate Coffee.jpg"
+        },
+        {
+          "name": "Regular Hot Coffee",
+          "price": 30,
+          "description": "Classic hot coffee with a strong aroma",
+          "image": "./images/Regular Hot Coffee.jpg"
+        },
+        {
+          "name": "Cappuccino Hot Coffee",
+          "price": 50,
+          "description": "Frothy hot coffee with creamy milk foam",
+          "image": "./images/cold-coffee.jpg"
+        },
+        {
+          "name": "Mocha Hot Coffee",
+          "price": 50,
+          "description": "Hot coffee blended with chocolate richness",
+          "image": "./images/cold-coffee.jpg"
+        },
+        {
+          "name": "Oreo Hot Coffee",
+          "price": 50,
+          "description": "Warm coffee infused with Oreo flavor",
+          "image": "./images/cold-coffee.jpg"
+        },
+        {
+          "name": "Espresso Hot Coffee",
+          "price": 50,
+          "description": "Strong, bold espresso shot for coffee lovers",
+          "image": "./images/cold-coffee.jpg"
+        }
+      ]
+    },
+    {
+      "id": "sandwiches",
+      "name": "Sandwiches",
+      "items": [
+        {
+          "name": "Chocolate Grilled Sandwich",
+          "price": 70,
+          "description": "Grilled sandwich filled with melted chocolate",
+          "image": "./images/Chocolate Grilled Sandwich.jpg"
+        },
+        {
+          "name": "Pahadi Grilled Sandwich",
+          "price": 80,
+          "description": "Spicy pahadi-style veggies in grilled bread",
+          "image": "./images/Pahadi Grilled Sandwich.jpg"
+        },
+        {
+          "name": "Pahadi Paneer Grilled Sandwich",
+          "price": 80,
+          "description": "Paneer and pahadi spices grilled to perfection",
+          "image": "./images/Pahadi Paneer Grilled Sandwich.jpg"
+        },
+        {
+          "name": "Spicy Mayo & Cheese Grilled Sandwich",
+          "price": 70,
+          "description": "Creamy cheese with spicy mayo filling",
+          "image": "./images/Spicy Mayo & Cheese Grilled Sandwich.jpg"
+        },
+        {
+          "name": "Paneer Chilli Grilled",
+          "price": 70,
+          "description": "Paneer tossed in chilli sauce, grilled crisp",
+          "image": "./images/Paneer Chilli Grilled.jpg"
+        },
+        {
+          "name": "Veg Grilled",
+          "price": 50,
+          "description": "Classic grilled sandwich with mixed vegetables",
+          "image": "./images/Veg Grilled.avif"
+        },
+        {
+          "name": "Veg Cheese Grilled",
+          "price": 60,
+          "description": "Veggies loaded with melted cheese",
+          "image": "./images/Veg Cheese Grilled.jpg"
+        },
+        {
+          "name": "Masala Cheese Grilled",
+          "price": 70,
+          "description": "Indian masala flavors with gooey cheese",
+          "image": "./images/Masala Cheese Grilled.jpg"
+        },
+        {
+          "name": "Cheese Grilled",
+          "price": 80,
+          "description": "Simple and cheesy grilled sandwich",
+          "image": "./images/Cheese Grilled.jpg"
+        },
+        {
+          "name": "Chilli Cheese Grilled",
+          "price": 80,
+          "description": "Spicy chilli mixed with melted cheese",
+          "image": "./images/Chilli Cheese Grilled.jpg"
+        },
+        {
+          "name": "Chilli Garilic Cheese Grilled",
+          "price": 60,
+          "description": "Garlic-flavored chilli cheese grilled sandwich",
+          "image": "./images/Chilli Garilic Cheese Grilled.jpg"
+        },
+        {
+          "name": "Veg Corn Cheese Grilled",
+          "price": 70,
+          "description": "Sweet corn, veggies, and cheese combo",
+          "image": "./images/Veg Corn Cheese Grilled.jpg"
+        },
+        {
+          "name": "Chocolate Cheese Grilled",
+          "price": 70,
+          "description": "Sweet chocolate and cheese fusion sandwich",
+          "image": "./images/Chocolate Cheese Grilled.jpg"
+        },
+        {
+          "name": "Veg Samosa Cheese Grilled",
+          "price": 80,
+          "description": "Crushed samosa with cheese in grilled bread",
+          "image": "./images/Veg Samosa Cheese Grilled.jpg"
+        },
+        {
+          "name": "Bombay Masala Cheese Grilled",
+          "price": 90,
+          "description": "Bombay-style masala veggies with cheese",
+          "image": "./images/Bombay Masala Cheese Grilled.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pizza_burger",
+      "name": "Pizza & Burger",
+      "items": [
+        {
+          "name": "Classic Cheese Burger",
+          "price": 70,
+          "description": "Veg patty with melted cheese and fresh veggies",
+          "image": "./images/Classic Cheese Burger.jpg"
+        },
+        {
+          "name": "Veg Burger",
+          "price": 70,
+          "description": "Crispy veg patty with classic burger toppings",
+          "image": "./images/Veg Burger.webp"
+        },
+        {
+          "name": "Garlic Burger",
+          "price": 70,
+          "description": "Veg burger with rich garlic flavor",
+          "image": "./images/Garlic Burger.jpg"
+        },
+        {
+          "name": "Steak Fries Burger",
+          "price": 100,
+          "description": "Veg burger served with steak-style fries",
+          "image": "./images/Steak Fries Burger.jpg"
+        },
+        {
+          "name": "Double Cheese Burger",
+          "price": 90,
+          "description": "Loaded burger with extra melted cheese",
+          "image": "./images/Double Cheese Burger.jpg"
+        },
+        {
+          "name": "Mashroom Burger",
+          "price": 120,
+          "description": "Juicy mushroom patty with cheese",
+          "image": "./images/Mashroom Burger.jpg"
+        },
+        {
+          "name": "Potato Cheese Burger",
+          "price": 80,
+          "description": "Crispy potato patty with cheesy filling",
+          "image": "./images/Potato Cheese Burger.jpg"
+        },
+        {
+          "name": "Cheese Corn Burger",
+          "price": 80,
+          "description": "Sweet corn and cheese packed burger",
+          "image": "./images/Cheese Corn Burger.jpg"
+        },
+        {
+          "name": "Double Pattie Burger",
+          "price": 90,
+          "description": "Double veg patties for extra bite",
+          "image": "./images/Double Pattie Burger.jpeg"
+        },
+        {
+          "name": "Jumbo Paneer Burger",
+          "price": 100,
+          "description": "Thick paneer patty with rich flavors",
+          "image": "./images/Jumbo Paneer Burger.jpeg"
+        },
+        {
+          "name": "Veg Cheese Pizza",
+          "price": 120,
+          "description": "Loaded veggies with melted cheese",
+          "image": "./images/Veg Cheese Pizza.jpg"
+        },
+        {
+          "name": "Only Cheese Pizza",
+          "price": 110,
+          "description": "Classic pizza with extra cheese",
+          "image": "./images/Only Cheese Pizza.jpg"
+        },
+        {
+          "name": "Paneer Cheese Pizza",
+          "price": 150,
+          "description": "Paneer cubes with cheesy topping",
+          "image": "./images/Paneer Cheese Pizza.jpg"
+        },
+        {
+          "name": "Onion/Capcicium Cheese",
+          "price": 100,
+          "description": "Onion and capsicum with melted cheese",
+          "image": "./images/Onion Capcicium Cheese.avif"
+        },
+        {
+          "name": "Paneer Chilli Cheese Pizza",
+          "price": 160,
+          "description": "Spicy paneer chilli with cheese",
+          "image": "./images/Paneer Chilli Cheese Pizza.webp"
+        },
+        {
+          "name": "Veg Corn Cheese Pizza",
+          "price": 120,
+          "description": "Veggies and sweet corn on cheesy base",
+          "image": "./images/Veg Corn Cheese Pizza.jpg"
+        },
+        {
+          "name": "Pahadi Cheese Pizza",
+          "price": 100,
+          "description": "Pahadi spice-flavored cheese pizza",
+          "image": "./images/Pahadi Cheese Pizza.jpg"
+        },
+        {
+          "name": "Tomato Garlic Pizza",
+          "price": 100,
+          "description": "Tomato base with rich garlic flavor",
+          "image": "./images/Tomato Garlic Pizza.jpg"
+        }
+      ]
+    }
+  ]
+}
